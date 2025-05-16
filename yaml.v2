@@ -1,0 +1,15 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Type"
+          content="text/html; charset=utf-8" />
+    <meta name="go-import"
+          content="go.yaml.in/yaml.v2 git https://github.com/yaml/go-yaml/tree/v2.4.0" />
+    <meta http-equiv="refresh"
+          content="0; URL='https://github.com/yaml/go-yaml'" />
+  </head>
+
+  <body>
+    Redirecting you to
+    <a href="https://github.com/yaml/go-yaml">go-yaml v2</a>...
+  </body>
+</html>
