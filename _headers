@@ -1,2 +1,4 @@
 /yaml.*
-  Content-Type: text/html; charset=utf-8
+  Content-Type: text/html
+  Vary: Accept-Encoding
+  Transfer-Encoding: chunked
